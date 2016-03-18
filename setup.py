@@ -21,7 +21,7 @@ setup(
     maintainer_email="L.Plant.98@cantab.net",
     url=URL,
     install_requires=[
-        'Django>=1.6',
+        # 'Django>=1.6',
         'six>=1.4.1',
         'requests>=2.5.3',
     ],
