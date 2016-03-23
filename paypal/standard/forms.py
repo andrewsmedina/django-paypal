@@ -7,8 +7,8 @@ from warnings import warn
 from django import forms
 from django.conf import settings
 from django.utils import timezone
-from django.utils.safestring import mark_safe
-from django.utils.encoding import force_text, SafeText
+from django.utils.safestring import mark_safe, SafeText
+from django.utils.encoding import force_text
 from django.utils.functional import allow_lazy
 from django.utils import six
 
